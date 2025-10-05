@@ -1,4 +1,4 @@
-# 🪐 AI-Based Exoplanet Detection Using NASA Kepler and TESS Data  
+# 🪐 Astro Zeter: AI-Based Exoplanet Detection Using NASA Kepler and TESS Data  
 
 # [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
